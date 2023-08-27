@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UCqLPjqsJmIbUI7F5kLpAaJ05kP5rnezBRIJHT/FpeBxT0kkyIOXPzr5TKQvVkEkCZuPFD1UbxfKmK/2cOv7mg==",
+  "dgSpecHash": "+RE4Rpbq/lnen4+QT0XT9ihi0ANTwQJJCbUjFcYEqR/T9LDjjFnGwlv4btACy/wGzd6UwKXvyp5KM+gyNyAZ0w==",
   "success": true,
   "projectFilePath": "C:\\AzureWithDotnetCore\\test\\CoreWebAPIAzure.Test\\CoreWebAPIAzure.Test.csproj",
   "expectedPackageFiles": [
