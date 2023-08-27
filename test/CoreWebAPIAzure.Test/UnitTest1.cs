@@ -15,8 +15,7 @@ namespace CoreWebAPIAzure.Test
         {
             
             var test = valuesController.Get(1);
-            Assert.Equal("hardev1", test);
-            
+            Assert.Equal("hardev", test);           
             
         }
     }
